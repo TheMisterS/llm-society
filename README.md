@@ -10,8 +10,8 @@ review, then a working discussion-simulation system, then a RAG-based persona st
 | # | Work | Period | Paper | Slides | Code |
 |---|------|--------|-------|--------|------|
 | 1 | **Theoretical course work** — *Simulating society with LLMs* | Spring 2025 | [paper.pdf](docs/1_theoretical_course_work_2025/paper.pdf) | [slides_lt.pptx](docs/1_theoretical_course_work_2025/slides_lt.pptx) | — |
-| 2 | **Practical course work (project)** — *Simulating society with LLMs* | Sep 2025 – Jan 2026 | [paper.pdf](docs/2_practical_course_work_2025-26/paper.pdf) | [slides_lt.pdf](docs/2_practical_course_work_2025-26/slides_lt.pdf) | tag [`practical-cw-final`](https://github.com/TheMisterS/course_work-LLM-Society-/tree/practical-cw-final) |
-| 3 | **Bachelor thesis** — *LLM Society: RAG based persona creation and their impact in a multi-agent discussion system* | Feb – May 2026 | [paper.pdf](docs/3_bachelor_thesis_2026/paper.pdf) | [slides_lt.pdf](docs/3_bachelor_thesis_2026/slides_lt.pdf) | [`app/`](app/) on `main` · tag [`bachelor-final`](https://github.com/TheMisterS/course_work-LLM-Society-/tree/bachelor-final) |
+| 2 | **Practical course work (project)** — *Simulating society with LLMs* | Sep 2025 – Jan 2026 | [paper.pdf](docs/2_practical_course_work_2025-26/paper.pdf) | [slides_lt.pdf](docs/2_practical_course_work_2025-26/slides_lt.pdf) | tag [`practical-cw-final`](https://github.com/TheMisterS/llm-society/tree/practical-cw-final) |
+| 3 | **Bachelor thesis** — *LLM Society: RAG based persona creation and their impact in a multi-agent discussion system* | Feb – May 2026 | [paper.pdf](docs/3_bachelor_thesis_2026/paper.pdf) | [slides_lt.pdf](docs/3_bachelor_thesis_2026/slides_lt.pdf) | [`app/`](app/) on `main` · tag [`bachelor-final`](https://github.com/TheMisterS/llm-society/tree/bachelor-final) |
 
 All papers and slides are written in Lithuanian (the bachelor thesis has an English abstract).
 Each `docs/` folder has its own README with a short summary.
